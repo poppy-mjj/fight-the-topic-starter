@@ -1,0 +1,14 @@
+﻿D:\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: 中间目录(Debug\)包含从另一个项目(斗楼主服务端.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  s_Game.cpp
+D:\2023游戏程序设计\斗楼主分离的服务端\斗楼主分离的服务端\s_player.h(23,2): warning C4091: “typedef ”: 没有声明变量时忽略“PLAYER_KIND”的左侧
+D:\2023游戏程序设计\斗楼主分离的服务端\斗楼主分离的服务端\s_Game.h(23,2): warning C4091: “typedef ”: 没有声明变量时忽略“GAME_STATE”的左侧
+D:\2023游戏程序设计\斗楼主分离的服务端\斗楼主分离的服务端\s_Game.h(31,2): warning C4091: “typedef ”: 没有声明变量时忽略“clicking_state”的左侧
+D:\2023游戏程序设计\斗楼主分离的服务端\斗楼主分离的服务端\s_Game.h(39,2): warning C4091: “typedef ”: 没有声明变量时忽略“response_state”的左侧
+D:\2023游戏程序设计\斗楼主分离的服务端\斗楼主分离的服务端\s_Game.cpp(28,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  s_main.cpp
+D:\2023游戏程序设计\斗楼主分离的服务端\斗楼主分离的服务端\s_player.h(23,2): warning C4091: “typedef ”: 没有声明变量时忽略“PLAYER_KIND”的左侧
+D:\2023游戏程序设计\斗楼主分离的服务端\斗楼主分离的服务端\s_Game.h(23,2): warning C4091: “typedef ”: 没有声明变量时忽略“GAME_STATE”的左侧
+D:\2023游戏程序设计\斗楼主分离的服务端\斗楼主分离的服务端\s_Game.h(31,2): warning C4091: “typedef ”: 没有声明变量时忽略“clicking_state”的左侧
+D:\2023游戏程序设计\斗楼主分离的服务端\斗楼主分离的服务端\s_Game.h(39,2): warning C4091: “typedef ”: 没有声明变量时忽略“response_state”的左侧
+  正在生成代码...
+  斗楼主分离的服务端.vcxproj -> D:\2023游戏程序设计\斗楼主分离的服务端\Debug\斗楼主分离的服务端.exe

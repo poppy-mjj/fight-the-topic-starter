@@ -1,0 +1,10 @@
+﻿  s_Game.cpp
+E:\work\c++项目\game_design\斗楼主分离的服务端\s_player.h(23,2): warning C4091: “typedef ”: 没有声明变量时忽略“PLAYER_KIND”的左侧
+E:\work\c++项目\game_design\斗楼主分离的服务端\s_Game.h(28,2): warning C4091: “typedef ”: 没有声明变量时忽略“GAME_STATE”的左侧
+E:\work\c++项目\game_design\斗楼主分离的服务端\s_Game.h(36,2): warning C4091: “typedef ”: 没有声明变量时忽略“clicking_state”的左侧
+E:\work\c++项目\game_design\斗楼主分离的服务端\s_Game.h(44,2): warning C4091: “typedef ”: 没有声明变量时忽略“response_state”的左侧
+E:\work\c++项目\game_design\斗楼主分离的服务端\s_Game.cpp(114,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\work\c++项目\game_design\斗楼主分离的服务端\s_Game.cpp(139,40): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\work\c++项目\game_design\斗楼主分离的服务端\s_Game.cpp(154,46): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\work\c++项目\game_design\斗楼主分离的服务端\s_Game.cpp(161,56): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  斗楼主分离的服务端.vcxproj -> E:\work\c++项目\game_design\斗楼主分离的服务端\x64\Debug\斗楼主分离的服务端.exe

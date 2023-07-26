@@ -1,0 +1,545 @@
+﻿  Game.cpp
+E:\work\c++项目\game_design\qipai3\qipai\player.h(53,2): warning C4091: “typedef ”: 没有声明变量时忽略“PLAYER_KIND”的左侧
+E:\work\c++项目\game_design\qipai3\qipai\AnimatedSprite.hpp(29,23): warning C4305: “参数”: 从“double”到“float”截断
+E:\work\c++项目\game_design\qipai3\qipai\Game.h(49,2): warning C4091: “typedef ”: 没有声明变量时忽略“GAME_STATE”的左侧
+E:\work\c++项目\game_design\qipai3\qipai\Game.h(57,2): warning C4091: “typedef ”: 没有声明变量时忽略“clicking_state”的左侧
+E:\work\c++项目\game_design\qipai3\qipai\Game.h(65,2): warning C4091: “typedef ”: 没有声明变量时忽略“response_state”的左侧
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(263,31): warning C4305: “参数”: 从“double”到“float”截断
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(290,87): warning C4305: “参数”: 从“double”到“float”截断
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(489,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(578,93): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(578,59): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(591,68): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(591,47): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(616,92): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(616,58): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(634,92): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(634,58): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(644,67): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(644,46): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(654,67): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(654,46): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(663,94): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(663,60): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(672,93): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(672,59): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(689,69): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(689,48): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(727,68): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(727,47): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(763,96): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(763,62): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(774,71): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(774,50): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(837,96): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(837,62): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(860,72): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(860,51): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(928,92): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(928,58): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(946,92): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(946,58): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(956,67): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(956,46): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(971,67): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(971,46): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(994,94): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(994,60): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(1003,93): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(1003,59): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(1022,69): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(1022,48): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(1059,68): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(1059,47): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(1096,96): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(1096,62): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(1107,71): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(1107,50): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(1208,96): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(1208,62): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(1231,72): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(1231,51): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(1315,73): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(1315,52): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(1391,72): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(1391,57): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(1429,64): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(1429,49): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(1481,55): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(1481,40): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(1589,55): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(1589,40): warning C4244: “参数”: 从“T”转换到“T”，可能丢失数据
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(1947,87): warning C4244: “参数”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(1947,52): warning C4244: “参数”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(1950,29): warning C4305: “参数”: 从“double”到“float”截断
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(1953,40): warning C4305: “=”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(1954,42): warning C4305: “=”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(2164,87): warning C4244: “参数”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(2164,52): warning C4244: “参数”: 从“double”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(2212,37): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(2251,56): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(2266,56): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(2278,56): warning C4305: “参数”: 从“double”到“T”截断
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(2302,50): warning C4305: “=”: 从“double”到“float”截断
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(2312,49): warning C4305: “=”: 从“double”到“float”截断
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(2333,50): warning C4305: “=”: 从“double”到“float”截断
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(2343,49): warning C4305: “=”: 从“double”到“float”截断
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(2384,56): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(2384,42): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(2404,56): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(2404,42): warning C4244: “参数”: 从“int”转换到“T”，可能丢失数据
+          with
+          [
+              T=float
+          ]
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(2528,85): warning C4244: “参数”: 从“float”转换到“sf::Uint8”，可能丢失数据
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(2731,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(2732,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(2737,36): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(2749,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(2786,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(2787,21): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(2791,36): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(3182,45): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(3190,55): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  main.cpp
+E:\work\c++项目\game_design\qipai3\qipai\player.h(53,2): warning C4091: “typedef ”: 没有声明变量时忽略“PLAYER_KIND”的左侧
+E:\work\c++项目\game_design\qipai3\qipai\AnimatedSprite.hpp(29,23): warning C4305: “参数”: 从“double”到“float”截断
+E:\work\c++项目\game_design\qipai3\qipai\Game.h(49,2): warning C4091: “typedef ”: 没有声明变量时忽略“GAME_STATE”的左侧
+E:\work\c++项目\game_design\qipai3\qipai\Game.h(57,2): warning C4091: “typedef ”: 没有声明变量时忽略“clicking_state”的左侧
+E:\work\c++项目\game_design\qipai3\qipai\Game.h(65,2): warning C4091: “typedef ”: 没有声明变量时忽略“response_state”的左侧
+  正在生成代码...
+E:\work\c++项目\game_design\qipai3\qipai\Game.cpp(1881): warning C4715: “Game::card_demage”: 不是所有的控件路径都返回值
+  qipai.vcxproj -> E:\work\c++项目\game_design\qipai3\x64\Debug\qipai.exe
